@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Faster batch same_shapes (#8851)
