@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Fix cmake requirements for ARM64 (#8589)
