@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Segment TensorRT batch=3 fix (#7952)
