@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Explorer with LanceDB, Actions and Docs updates (#7487)
