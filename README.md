@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
