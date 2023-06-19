@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
