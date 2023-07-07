@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
