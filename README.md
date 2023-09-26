@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Update mkdocs.yml (#7693)
