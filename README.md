@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
