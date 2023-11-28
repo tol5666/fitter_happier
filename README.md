@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Update Discord and Contributing Guide URLs (#9270)
