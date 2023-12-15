@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Fix TypeError in check_cfg() (#9245)
