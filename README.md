@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
