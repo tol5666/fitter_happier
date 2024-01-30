@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
