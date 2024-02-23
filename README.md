@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Cleanup Docs languages (#7865)
