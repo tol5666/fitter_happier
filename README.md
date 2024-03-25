@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
