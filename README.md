@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
