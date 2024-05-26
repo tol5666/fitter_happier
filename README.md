@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add distance calculation feature in vision-eye (#8616)
