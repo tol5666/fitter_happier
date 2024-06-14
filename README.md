@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
