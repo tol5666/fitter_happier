@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
