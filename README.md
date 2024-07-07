@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Allow Annotator PIL.Image inputs (#8397)
