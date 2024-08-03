@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add TorchScript Docs Integrations Page (#8501)
