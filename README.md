@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add estimate_speed(region_color) parameter (#8285)
