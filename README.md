@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
