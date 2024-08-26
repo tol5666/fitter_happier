@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Fixed RTDETR GFLOPs bug (#7309)
