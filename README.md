@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add bgr hyperparameter (#9139)
