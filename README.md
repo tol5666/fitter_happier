@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
