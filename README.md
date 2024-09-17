@@ -1,1 +1,1 @@
-added badges (#45)
+Update Twitter icon in Docs (#7711)
