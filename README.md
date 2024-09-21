@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add Amazon Sagemaker Docs integrations page (#7293)
