@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
